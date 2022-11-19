@@ -65,7 +65,7 @@ export function Pools() {
                         )}
                         showsVerticalScrollIndicator={false}
                         ListEmptyComponent={() => <EmptyPoolList />}
-                        _contentContainerStyle={{ pb: 10 }}
+                        _contentContainerStyle={{ pb: 20 }}
                         px={5}
                     />}
         </VStack>
